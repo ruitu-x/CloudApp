@@ -1,1 +1,1 @@
-{"title":"云应用商店","apps":[{"id":"test","title":"测试"},{"id":"twimi","title":"Twimi"}]}
+{"title":"云应用商店","apps":[{"id":"test","title":"测试","version":"1.0.0.0","require":"1.0.0.0"},{"id":"twimi","title":"Twimi","version":"1.0.0.0","require":"1.0.0.0"}]}
